@@ -3,8 +3,8 @@
   <h3>Building Digital Systems, Exploring RISC-V & Designing Hardware with Verilog</h3>
 
   <p>
-    <a href="mailto:YOUR_EMAIL">Email</a> •
-    <a href="YOUR_LINKEDIN">LinkedIn</a>
+    <a href="mailto:abt23j2004@gmail.com">Email</a> •
+    <a href="(https://www.linkedin.com/in/abhinav-tiwari1/)">LinkedIn</a>
   </p>
 </div>
 
